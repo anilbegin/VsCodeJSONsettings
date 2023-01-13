@@ -1,8 +1,10 @@
 # VsCodeJSONsettings
 settings for Vscode to be pasted to settings.json when coding in React
 
-# add Javascript snippet (for activating 'rc' tab trigger to auto-create a skeleton for React js file)
+# add Javascript snippet 
 by..
+
+(for activating 'rc' tab trigger to auto-create a skeleton for React js file)
 
 -step-1
 Ctrl +Shift +p
